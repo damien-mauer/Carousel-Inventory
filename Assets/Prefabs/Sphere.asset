@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af9aa3ccfd6c2ca44816ff875e626531, type: 3}
+  m_Name: Sphere
+  m_EditorClassIdentifier: 
+  ID: 5768
+  ItemName: Kugel
+  Sprite: {fileID: 21300000, guid: b692f15fafeb34641918858843a5e898, type: 3}
+  Description: Eine einfache Kugel
+  LongDescription: Diese Kugel ist rund. Sonst ist an ihr nichts besonders.
+  UniqueItem: 1
+  Amount: 1
+  Type: 2
+  HealthRestorationAmount: 0
+  OpenableDoorType: 0
+  IsCombinable: 1
+  CombinableWithID: 77
+  CombinesToID: 888
+  SolvesID: -1
+  referenceToPuzzle: {fileID: 11400000, guid: c7ca0af2281c77c45b7f0dc947b0d66b, type: 2}
+  gameObject: {fileID: 3613865772688447411, guid: be779a00984425148b6723d1c17ff5ae, type: 3}
+  AddToInventory: 0
+  isImage: 0
+  Message: 
+  Number: -1

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af9aa3ccfd6c2ca44816ff875e626531, type: 3}
+  m_Name: Note
+  m_EditorClassIdentifier: 
+  ID: 789
+  ItemName: Note
+  Sprite: {fileID: 0}
+  Description: 
+  LongDescription: 
+  UniqueItem: 1
+  Amount: 1
+  Type: 3
+  HealthRestorationAmount: 0
+  OpenableDoorType: 0
+  IsCombinable: 0
+  CombinableWithID: -1
+  CombinesToID: -1
+  SolvesID: -1
+  referenceToPuzzle: {fileID: 0}
+  gameObject: {fileID: 0}
+  AddToInventory: 1
+  isImage: 0
+  Message: "Wenn du den W\xFCrfel und die Kugel zusammenf\xFCgst, erh\xE4lst du eine
+    \xDCberraschung!"
+  Number: 1
